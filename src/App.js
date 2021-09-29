@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 
 const animationDuration = 2650;
-const targetCount = 4;
+const targetCount = 5;
 
 function App() {
   const audio = new Audio("./wololo-sound.mp3");
