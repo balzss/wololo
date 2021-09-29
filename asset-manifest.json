@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wololo/static/css/main.175fae59.chunk.css",
-    "main.js": "/wololo/static/js/main.631f3b21.chunk.js",
-    "main.js.map": "/wololo/static/js/main.631f3b21.chunk.js.map",
+    "main.js": "/wololo/static/js/main.38ba8003.chunk.js",
+    "main.js.map": "/wololo/static/js/main.38ba8003.chunk.js.map",
     "runtime-main.js": "/wololo/static/js/runtime-main.f6bb32bf.js",
     "runtime-main.js.map": "/wololo/static/js/runtime-main.f6bb32bf.js.map",
     "static/js/2.88171d1e.chunk.js": "/wololo/static/js/2.88171d1e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f6bb32bf.js",
     "static/js/2.88171d1e.chunk.js",
     "static/css/main.175fae59.chunk.css",
-    "static/js/main.631f3b21.chunk.js"
+    "static/js/main.38ba8003.chunk.js"
   ]
 }
