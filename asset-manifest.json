@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wololo/static/css/main.175fae59.chunk.css",
-    "main.js": "/wololo/static/js/main.38ba8003.chunk.js",
-    "main.js.map": "/wololo/static/js/main.38ba8003.chunk.js.map",
+    "main.css": "/wololo/static/css/main.9215d46d.chunk.css",
+    "main.js": "/wololo/static/js/main.e3c05187.chunk.js",
+    "main.js.map": "/wololo/static/js/main.e3c05187.chunk.js.map",
     "runtime-main.js": "/wololo/static/js/runtime-main.f6bb32bf.js",
     "runtime-main.js.map": "/wololo/static/js/runtime-main.f6bb32bf.js.map",
-    "static/js/2.88171d1e.chunk.js": "/wololo/static/js/2.88171d1e.chunk.js",
-    "static/js/2.88171d1e.chunk.js.map": "/wololo/static/js/2.88171d1e.chunk.js.map",
+    "static/js/2.732ba04b.chunk.js": "/wololo/static/js/2.732ba04b.chunk.js",
+    "static/js/2.732ba04b.chunk.js.map": "/wololo/static/js/2.732ba04b.chunk.js.map",
     "static/js/3.25ed0f44.chunk.js": "/wololo/static/js/3.25ed0f44.chunk.js",
     "static/js/3.25ed0f44.chunk.js.map": "/wololo/static/js/3.25ed0f44.chunk.js.map",
     "index.html": "/wololo/index.html",
-    "static/css/main.175fae59.chunk.css.map": "/wololo/static/css/main.175fae59.chunk.css.map",
-    "static/js/2.88171d1e.chunk.js.LICENSE.txt": "/wololo/static/js/2.88171d1e.chunk.js.LICENSE.txt"
+    "static/css/main.9215d46d.chunk.css.map": "/wololo/static/css/main.9215d46d.chunk.css.map",
+    "static/js/2.732ba04b.chunk.js.LICENSE.txt": "/wololo/static/js/2.732ba04b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f6bb32bf.js",
-    "static/js/2.88171d1e.chunk.js",
-    "static/css/main.175fae59.chunk.css",
-    "static/js/main.38ba8003.chunk.js"
+    "static/js/2.732ba04b.chunk.js",
+    "static/css/main.9215d46d.chunk.css",
+    "static/js/main.e3c05187.chunk.js"
   ]
 }
